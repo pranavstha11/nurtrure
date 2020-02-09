@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5293d3bb-ba23-44f6-a362-6d2833adb96d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XIpvGJQE9qwAQkyVWkKh5RNsFC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Logo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Logo" />
+      <recent name="$PROJECT_DIR$/src/components/Form" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.App.js">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/App.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/Foods/FoodProduct/index.js" working-dir="$PROJECT_DIR$/src/components/Foods/FoodProduct">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.App.js" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5293d3bb-ba23-44f6-a362-6d2833adb96d" name="Default Changelist" comment="" />
+      <created>1580743692068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580743692068</updated>
+      <workItem from="1580743695688" duration="3747000" />
+      <workItem from="1580919253585" duration="3630000" />
+      <workItem from="1580972840472" duration="769000" />
+      <workItem from="1580978124002" duration="3487000" />
+      <workItem from="1580987885891" duration="18123000" />
+      <workItem from="1581054991008" duration="32050000" />
+      <workItem from="1581135049380" duration="9235000" />
+      <workItem from="1581151672702" duration="6156000" />
+      <workItem from="1581165008945" duration="13582000" />
+      <workItem from="1581216200329" duration="10277000" />
+      <workItem from="1581228199289" duration="3740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="599" y="304" width="711" height="428" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580988226352">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="599" y="304" width="711" height="428" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580988226352" />
+    <state width="1892" height="320" key="GridCell.Tab.0.bottom" timestamp="1581164980594">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980594" />
+    <state width="1892" height="320" key="GridCell.Tab.0.center" timestamp="1581164980593">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980593" />
+    <state width="1892" height="320" key="GridCell.Tab.0.left" timestamp="1581164980592">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980592" />
+    <state width="1892" height="320" key="GridCell.Tab.0.right" timestamp="1581164980593">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980593" />
+    <state width="1892" height="320" key="GridCell.Tab.1.bottom" timestamp="1581164980594">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980594" />
+    <state width="1892" height="320" key="GridCell.Tab.1.center" timestamp="1581164980594">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980594" />
+    <state width="1892" height="320" key="GridCell.Tab.1.left" timestamp="1581164980594">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980594" />
+    <state width="1892" height="320" key="GridCell.Tab.1.right" timestamp="1581164980594">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980594" />
+    <state width="1892" height="320" key="GridCell.Tab.2.bottom" timestamp="1581164980595">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980595" />
+    <state width="1892" height="320" key="GridCell.Tab.2.center" timestamp="1581164980595">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980595" />
+    <state width="1892" height="320" key="GridCell.Tab.2.left" timestamp="1581164980595">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980595" />
+    <state width="1892" height="320" key="GridCell.Tab.2.right" timestamp="1581164980595">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980595" />
+    <state width="1892" height="320" key="GridCell.Tab.3.bottom" timestamp="1581164980596">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980596" />
+    <state width="1892" height="320" key="GridCell.Tab.3.center" timestamp="1581164980596">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980596" />
+    <state width="1892" height="320" key="GridCell.Tab.3.left" timestamp="1581164980595">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980595" />
+    <state width="1892" height="320" key="GridCell.Tab.3.right" timestamp="1581164980596">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1892" height="320" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581164980596" />
+    <state x="530" y="11" width="860" height="1011" key="find.popup" timestamp="1581230382076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="530" y="11" width="860" height="1011" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581230382076" />
+    <state x="540" y="231" key="run.anything.popup" timestamp="1581219047890">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="231" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581219047890" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/header/inspectfood/index.js</url>
+          <line>136</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/header/searchbar/index.js</url>
+          <line>46</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

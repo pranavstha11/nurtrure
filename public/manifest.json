@@ -1,0 +1,8 @@
+{
+  "short_name": "Nurture",
+  "name": "Nutrition App by Team D",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6200ee",
+  "background_color": "#ffffff"
+}
